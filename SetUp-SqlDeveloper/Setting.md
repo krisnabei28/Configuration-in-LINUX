@@ -15,7 +15,7 @@
            cd /opt/sqldeveloper/sqldeveloper/bin && bash sql developer $*
     -     sudo chmod +x sqldeveloper.sh
     -     ./sqldeveloper.sh (run sql developer)  
-- Script untuk **SQL DEVELOPER DESKTOP**
+- Script untuk `SQL DEVELOPER DESKTOP`
     -     sudo ln -s /opt/sqldeveloper/sqldeveloper.sh /usr/local/bin/sqldeveloper
     -     cd /usr/share/applications
     -     sudo nano sqldeveloper.desktop
@@ -29,4 +29,4 @@
           Name=Oracle Sql Developer
     -     cd
     -     sqldeveloper (run sql developer) 
-- **SQL DEVELOPER** berhasil diinstal
+- `SQL DEVELOPER` berhasil diinstal
