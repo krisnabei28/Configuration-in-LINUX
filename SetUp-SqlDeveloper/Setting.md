@@ -2,7 +2,7 @@
 
 - Download **Sql Developer** : https://www.oracle.com/database/sqldeveloper/technologies/download/
 - Pilih opsi **Other Platforms**, lalu download **sqldeveloper-<i>number</i>-no-jre.zip**
-- Setelah selesai di download, buka command linux dan lakukan unzip pada file yang di download tadi. Command : <i>unzip sqldeveloper-number-no-jre.zip</i>
+- Setelah selesai di download, buka command linux dan lakukan unzip pada file yang di download tadi. Command : `unzip sqldeveloper-number-no-jre.zip`
 - Setelah file selesai di unzip, lakukan beberapa command line berikut :
     -     sudo mv sqldeveloper /opt
     -     cd /opt/sqldeveloper/
